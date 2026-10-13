@@ -1,0 +1,19 @@
+name: le_clochard_ui
+description: Design system de la plateforme Le Clochard (black and white).
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.12.1
+
+resolution: workspace
+
+dependencies:
+  flutter:
+    sdk: flutter
+  lucide_icons: ^0.257.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0

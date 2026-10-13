@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177687217741",
+    "project_id": "le-clochard",
+    "storage_bucket": "le-clochard.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177687217741:android:efea428a3ecc02d1b97e04",
+        "android_client_info": {
+          "package_name": "com.leclochard.le_clochard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYtWbajw-PTGGUsj7pdvd5nrbMGPcqWJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

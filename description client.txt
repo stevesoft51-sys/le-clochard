@@ -1,0 +1,4 @@
+je suis au canada et losrqu'une personne veux un produit au canada je me charge de l'acheter et de l'envoyer dans ma boutique au cameroun pour recuperation
+donc le client m'envoie la photo du produit voulu avec les carateristiques et vous discuter des differentes modaliter sur un canal de discution messagerie instantané 
+et avec toutes la gestion administrateur (gestion des commande, gestion des produits, gestions du personnels, gestion du chiffre d'affaire, gestion comptable)
+bref c'est une plateforme pour entreprise transitaire que nous devons mettre en place avec application web interactif et site web le theme est black and white avec dominance white pas de données fictives par de long tire entre les mots pas d'icone bizzare utilise des lucid chart et tu vas le faire en type script sur firebase 

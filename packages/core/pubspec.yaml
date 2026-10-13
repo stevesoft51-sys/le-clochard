@@ -1,0 +1,22 @@
+name: le_clochard_core
+description: Coeur metier et services Firebase de la plateforme Le Clochard.
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.12.1
+
+resolution: workspace
+
+dependencies:
+  cloud_firestore: ^6.10.0
+  firebase_auth: ^6.7.0
+  firebase_core: ^4.15.0
+  firebase_storage: ^13.6.0
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0

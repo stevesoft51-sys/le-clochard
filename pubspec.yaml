@@ -1,0 +1,21 @@
+name: le_clochard_workspace
+description: Workspace de la plateforme Le Clochard.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.12.1
+
+workspace:
+  - apps/client
+  - apps/admin
+  - apps/website
+  - apps/employe
+  - apps/caissier
+  - packages/core
+  - packages/ui
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
