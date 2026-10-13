@@ -50,3 +50,5 @@ GoogleService-Info.plist
 GoogleService-Info2.plist
 config app web
 config app windows
+node_modules
+package-lock.json package.json
